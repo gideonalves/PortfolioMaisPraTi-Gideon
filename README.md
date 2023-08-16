@@ -1,7 +1,7 @@
 # PortfolioMaisPraTi
 
 
-Você pode acessá-lo com este [link.](https://www./)
+Você pode acessá-lo com este [link.]([https://www./](https://gideonalves.github.io/PortfolioMaisPraTi-Gideon/))
 
 ---
 
@@ -16,7 +16,7 @@ Alguns features existentes são:
 - Responsividade para todos dispositivos;
 - Modal que busca dados de Array de objetos;
 
-Você pode acessá-lo com este [link.](https://www./)
+Você pode acessá-lo com este [link.]([https://www./](https://gideonalves.github.io/PortfolioMaisPraTi-Gideon/))
 
 ---
 
